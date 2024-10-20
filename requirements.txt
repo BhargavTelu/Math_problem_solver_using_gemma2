@@ -1,0 +1,17 @@
+langchain_chroma
+streamlit
+langchain
+langchain-community
+langchain_core
+langchain-groq
+pylance
+python-dotenv
+bs4
+langchain-text-splitters
+langchain_huggingface
+pypdf
+youtube_transcript_api
+validators
+pytube
+unstructured
+numexpr
